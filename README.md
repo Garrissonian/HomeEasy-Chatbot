@@ -38,5 +38,5 @@ Make sure you have Python 3.8 or later installed on your system. You also need t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sales-performance-chatbot.git
-cd sales-performance-chatbot
+git clone https://github.com/Garrissonian/HomeEasy-Chatbot.git
+cd HomeEasy-Chatbot
