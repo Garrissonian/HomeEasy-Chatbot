@@ -36,8 +36,10 @@ The architecture of the Sales Performance Chatbot consists of the following comp
 Make sure you have Python 3.8 or later installed on your system. You also need to have `pip` to install the required packages.
 
 ### 1. Clone the Repository
-
+#### Cloning repo
 git clone https://github.com/Garrissonian/HomeEasy-Chatbot.git
+
+#### Changing directory to root directory
 cd HomeEasy-Chatbot
 
 ### 2.Create a Virtual Environment
