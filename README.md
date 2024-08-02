@@ -1,6 +1,8 @@
 # HomeEasy-Chatbot
 This repo contains all the necessary files for the specialized chatbot for real estate agency to generate feedback for their employees' performances.
 
+##Note: As I am using cpu for inference due to unavailability of gpu resources it takes some time for giving answer so it is advised to be paitent and api calls should be made one by one. When it gives response for one thing then refresh and give other query to it.  
+
 ## Overview
 
 The Sales Performance Chatbot is an AI-powered application designed to provide insights into sales performance data. It leverages natural language processing (NLP) and machine learning techniques to generate responses based on sales data. The application is built using Flask for the backend and utilizes various transformer models for text generation and data processing.
