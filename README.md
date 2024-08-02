@@ -37,6 +37,17 @@ Make sure you have Python 3.8 or later installed on your system. You also need t
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/Garrissonian/HomeEasy-Chatbot.git
 cd HomeEasy-Chatbot
+
+### 2.Create a Virtual Environment
+python -m venv venv
+source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
+### 3.Install Dependencies
+pip install -r requirements.txt
+
+### 4.Run the Backend
+python api.py
+
+
